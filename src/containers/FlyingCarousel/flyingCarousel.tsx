@@ -1,10 +1,10 @@
 import React, { useState } from "react";
 import FlyingCarousel from "../../components/FlyingCarousel/flyingCarousel";
-import img1 from "../../assets/_MG_3954-min.jpg";
-import img2 from "../../assets/_MG_3821-min.jpg";
-import img3 from "../../assets/_MG_3815-min.jpg";
-import img4 from "../../assets/_MG_3964-min.jpg";
-import img5 from "../../assets/_MG_3847-min.jpg";
+import img1 from "../../assets/images/img1.jpg";
+import img2 from "../../assets/images/img2.jpg";
+import img3 from "../../assets/images/img3.jpg";
+import img4 from "../../assets/images/img4.jpg";
+import img5 from "../../assets/images/img5.jpg";
 import styles from "./flyingCarousel.module.scss";
 //@ts-ignore
 import DoubleArrowRight from "../../assets/double-right-arrow.svg";
