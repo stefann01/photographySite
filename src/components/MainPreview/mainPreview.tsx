@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../../assets/_MG_4637.jpg";
+import image from "../../assets/images/img8.jpg";
 import "./mainPreview.scss";
 export default function MainPreview() {
   return (

@@ -1,18 +1,9 @@
-import React, { useCallback, useEffect, useRef, useState } from "react";
-import Carousel from "../Carousel/carousel";
-import Header from "../Header/header";
+import React from "react";
 import img1 from "../../assets/_MG_3954-min.jpg";
 import img2 from "../../assets/_MG_3821-min.jpg";
-import img3 from "../../assets/_MG_3815-min.jpg";
-import img4 from "../../assets/_MG_3964-min.jpg";
-import img5 from "../../assets/_MG_3847-min.jpg";
 import cube from "../../assets/products/cube.png";
-import PillarCarousel from "../PillarCarousel/pillarCarousel";
-import StackedCarousel from "../StackedCarousel/stackedCarousel";
 import SingleRotateCarousel from "../SingleRotateCarousel/SingleRotateCarousel";
 import MainPreview from "../MainPreview/mainPreview";
-import DoubleArrowDown from "../../assets/double-arrow-down-thin.svg";
-import StackedLayoutCarousel from "../StackedLayoutCarousel/stackedLayoutCarousel";
 import PillarCarouselContainer from "../../containers/PillarCarousel/pillarCarousel.container";
 import StackedCarouselContainer from "../../containers/StackedCarouselContainer/stackedCarouselContainer";
 
@@ -40,9 +31,9 @@ export default function LandingPage() {
         <MainPreview />
       </div>
       {/* First element */}
-      <StackedCarouselContainer /> {/* works fine */}
+      <StackedCarouselContainer />
       {/* Second element */}
-      <PillarCarouselContainer /> {/* works fine */}
+      <PillarCarouselContainer />
       {/* Third element */}
       <div
         style={{ position: "relative", height: "100vh", overflow: "hidden" }}
