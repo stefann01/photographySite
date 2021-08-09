@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Train+One&display=swap");
+
+.subheader-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.subtitle {
+  font-family: "Train One", cursive;
+  color: white;
+  font-weight: 300;
+  font-size: 36px;
+  letter-spacing: 10px;
+  text-align: center;
+}

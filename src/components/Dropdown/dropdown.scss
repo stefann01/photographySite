@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap");
+
+.dropdownChildren {
+  top: 60px;
+  display: block;
+  z-index: 999;
+  list-style: none;
+  position: absolute;
+  margin: 0px;
+  padding: 0.5rem 0;
+  background-color: white;
+  border: 1px solid #333;
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+}
+
+.dropdown-title {
+  font-family: "Lato", sans-serif;
+  font-weight: 200;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  color: #000000;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.dropItem {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+  overflow: hidden;
+  word-wrap: break-word;
+  list-style-type: none;
+  font-family: "Lato", sans-serif;
+  font-weight: 200;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  color: #000000;
+}
+
+.dropItem:hover {
+  background-color: #2b2c34;
+  color: #fff;
+}
+
+.dropdownBtn {
+  background: #ffffff;
+  border: 1px solid #a1a1a1;
+  box-sizing: border-box;
+  border-radius: 4px;
+  height: 50px;
+  width: 200px;
+}
+
+.dropdown-icon {
+  width: 24px;
+  height: 24px;
+  margin-left: auto;
+  display: flex;
+}

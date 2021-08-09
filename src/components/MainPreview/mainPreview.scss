@@ -1,0 +1,35 @@
+.main-preview-content {
+  position: relative;
+  width: inherit;
+  height: inherit;
+}
+
+.main-preview-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.text-content {
+  position: absolute;
+  top: 20%;
+  left: 5%;
+  width: 300px;
+}
+
+.text-content-title {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.text-content-description {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  color: #2d2d2d;
+}

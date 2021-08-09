@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&family=Train+One&display=swap");
+
+.header-container {
+  display: flex;
+  flex-direction: row;
+  height: 56px;
+  padding-left: 30px;
+  background-color: #fff;
+  position: relative;
+}
+
+.header-dropdown {
+  display: flex;
+  align-items: center;
+}
+
+.theming-icon-container {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.theming-icon {
+  width: 24px;
+  height: 24px;
+}
+
+.page-title {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: 200;
+  font-size: 28px;
+  letter-spacing: 0.5em;
+  text-transform: uppercase;
+  color: #2b2c34;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
