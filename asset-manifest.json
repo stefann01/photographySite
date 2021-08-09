@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/photographySite/static/css/main.70bc98f5.chunk.css",
+    "main.js": "/photographySite/static/js/main.b0650a47.chunk.js",
+    "main.js.map": "/photographySite/static/js/main.b0650a47.chunk.js.map",
+    "runtime-main.js": "/photographySite/static/js/runtime-main.5b04e10d.js",
+    "runtime-main.js.map": "/photographySite/static/js/runtime-main.5b04e10d.js.map",
+    "static/js/2.507e26b3.chunk.js": "/photographySite/static/js/2.507e26b3.chunk.js",
+    "static/js/2.507e26b3.chunk.js.map": "/photographySite/static/js/2.507e26b3.chunk.js.map",
+    "static/js/3.ea469eac.chunk.js": "/photographySite/static/js/3.ea469eac.chunk.js",
+    "static/js/3.ea469eac.chunk.js.map": "/photographySite/static/js/3.ea469eac.chunk.js.map",
+    "index.html": "/photographySite/index.html",
+    "static/css/main.70bc98f5.chunk.css.map": "/photographySite/static/css/main.70bc98f5.chunk.css.map",
+    "static/js/2.507e26b3.chunk.js.LICENSE.txt": "/photographySite/static/js/2.507e26b3.chunk.js.LICENSE.txt",
+    "static/media/_MG_3815-min.f4ae5850.jpg": "/photographySite/static/media/_MG_3815-min.f4ae5850.jpg",
+    "static/media/_MG_3821-min.59a0d877.jpg": "/photographySite/static/media/_MG_3821-min.59a0d877.jpg",
+    "static/media/_MG_3847-min.663ecd2f.jpg": "/photographySite/static/media/_MG_3847-min.663ecd2f.jpg",
+    "static/media/_MG_3954-min.9fe7e578.jpg": "/photographySite/static/media/_MG_3954-min.9fe7e578.jpg",
+    "static/media/_MG_3964-min.782051ca.jpg": "/photographySite/static/media/_MG_3964-min.782051ca.jpg",
+    "static/media/_MG_4637.8b4e90a7.jpg": "/photographySite/static/media/_MG_4637.8b4e90a7.jpg",
+    "static/media/cube.e36c3f74.png": "/photographySite/static/media/cube.e36c3f74.png",
+    "static/media/double-right-arrow.b7d0df88.svg": "/photographySite/static/media/double-right-arrow.b7d0df88.svg",
+    "static/media/left-arrow.6d4b3837.svg": "/photographySite/static/media/left-arrow.6d4b3837.svg",
+    "static/media/right-arrow.77e8b4f3.svg": "/photographySite/static/media/right-arrow.77e8b4f3.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b04e10d.js",
+    "static/js/2.507e26b3.chunk.js",
+    "static/css/main.70bc98f5.chunk.css",
+    "static/js/main.b0650a47.chunk.js"
+  ]
+}
